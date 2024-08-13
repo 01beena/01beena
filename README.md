@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01beena&label=Profile%20views&color=0e75b6&style=flat" alt="01beena" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01beena" alt="01beena" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/beena syed" target="blank"><img src="https://img.shields.io/twitter/follow/beena syed?logo=twitter&style=for-the-badge" alt="beena syed" /></a> </p>
-
 - 🌱 I’m currently learning **Gen-AI techniques, machine learning applications in chemistry, and data structures and algorithms.**
 
 - 👯 I’m looking to collaborate on **projects related to nanomaterials for biomedical applications, AI-driven chemical analysis.**
