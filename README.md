@@ -1,6 +1,6 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaper-mania.com%2Fpost%2Fwallpaper-id-77700095785%2F&psig=AOvVaw2othWP-jKCP9H7t4zEACeF&ust=1723634977882000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOj-ov_u8YcDFQAAAAAdAAAAABAR)
+![logo](https://github.com/01beena/01beena/blob/main/githubbc.jpeg)
 <h1 align="center">Hi 👋, I'm Beena Yousuf</h1>
-<h3 align="center">A Nanotechnologist with a passion for AI and Python programming, dedicated to advancing the frontiers of Nano-Analytical Chemistry through innovative software solutions."</h3>
+<h3 align="center">A Nanotechnologist with a passion for AI and Python programming"</h3>
 <p align="right"alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fd-coder111&psig=AOvVaw1bt66FLNjsSKYHczd2rl3Z&ust=1723494585356000&source=images&cd=vfe&opi=89978449&ved=0CBEQjhxqFwoTCLjAtfPj7YcDFQAAAAAdAAAAABAE>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01beena&label=Profile%20views&color=0e75b6&style=flat" alt="01beena" /> </p>
