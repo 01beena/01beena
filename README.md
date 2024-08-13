@@ -1,4 +1,4 @@
-![logo](https://github.com/01beena/01beena/blob/main/github%20bg.png)
+
 <h1 align="center">Hi 👋, I'm Beena Yousuf</h1>
 <h3 align="center">A Nanotechnologist with a passion for AI and Python programming</h3>
 <p align="right"alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fd-coder111&psig=AOvVaw1bt66FLNjsSKYHczd2rl3Z&ust=1723494585356000&source=images&cd=vfe&opi=89978449&ved=0CBEQjhxqFwoTCLjAtfPj7YcDFQAAAAAdAAAAABAE>
